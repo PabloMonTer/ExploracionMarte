@@ -1,4 +1,4 @@
-# ExploracionMarte
+# Exploracion en Marte
 
 Este proyecto simula la exploración de un robot tipo Perseverance Rover en Marte. El rover tiene dos objetivos principales: primero, realizar una exploración con un punto de origen y un punto de destino utilizando diversos algoritmos de búsqueda, y segundo, realizar un descenso hacia un cráter utilizando algoritmos metaheurísticos para encontrar la mejor ruta. Durante la simulación, se implementaron algoritmos de búsqueda ciega, heurística y metaheurística para cumplir con estas misiones.
 
